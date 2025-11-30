@@ -22,5 +22,3 @@ StudentSync is a lightweight Python console app built by two grade 12 students t
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/StudentSync.git
-cd StudentSync
-
